@@ -1,5 +1,4 @@
-nclude "main.h"
-
+#include "main.h"
 /**
  * _abs - computes the absolute value of an integrer
  * @n: the int to check
